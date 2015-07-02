@@ -1,0 +1,54 @@
+2015-07-02 06:16:57 INFO  MainPage:95 - Open url : http://www.yandex.ru/
+2015-07-02 06:16:57 ERROR MainPage:87 - Cannot save screenshot due to Source 'C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot1144253147213524527.png' does not exist
+2015-07-02 06:16:59 ERROR MainPage:87 - Cannot save screenshot due to Source 'C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot5747412647588242996.png' does not exist
+2015-07-02 06:17:02 INFO  MainPage:51 - User logged under :ludik.ludik2015
+2015-07-02 06:45:15 INFO  MainPage:97 - Open url : http://www.yandex.ru/
+2015-07-02 06:45:15 INFO  MainPage:41 - Screenshot - screenshot187375352039229522.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot187375352039229522.png
+2015-07-02 06:45:16 INFO  MainPage:41 - Screenshot - screenshot7569632866134495236.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot7569632866134495236.png
+2015-07-02 06:45:17 INFO  MainPage:41 - Screenshot - screenshot5392830602276779811.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot5392830602276779811.png
+2015-07-02 06:45:17 INFO  MainPage:41 - Screenshot - screenshot1480246216523566549.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot1480246216523566549.png
+2015-07-02 06:45:25 INFO  MainPage:52 - User logged under :ludik.ludik2015
+2015-07-02 07:04:14 INFO  MainPage:54 - Browser - firefox
+2015-07-02 07:04:14 INFO  MainPage:19 - Driver is initializated
+2015-07-02 07:04:32 INFO  MainPage:68 - Open url : http://www.yandex.ru/
+2015-07-02 07:04:33 INFO  MainPage:38 - Screenshot - screenshot6494776438256935088.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot6494776438256935088.png
+2015-07-02 07:04:35 INFO  MainPage:38 - Screenshot - screenshot4044219407467105316.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot4044219407467105316.png
+2015-07-02 07:04:38 INFO  MainPage:42 - User logged under :ludik.ludik2015
+2015-07-02 07:04:46 INFO  MainPage:38 - Screenshot - screenshot791720338032793351.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot791720338032793351.png
+2015-07-02 07:04:49 INFO  MainPage:38 - Screenshot - screenshot3640398663091041699.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot3640398663091041699.png
+2015-07-02 07:04:56 INFO  MainPage:38 - Screenshot - screenshot1554471714089929407.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot1554471714089929407.png
+2015-07-02 07:05:30 INFO  MainPage:75 - Quit from browser
+2015-07-02 07:05:30 INFO  MainPage:25 - Driver tear down
+2015-07-02 07:12:41 INFO  MainPage:54 - Browser - firefox
+2015-07-02 07:12:41 INFO  MainPage:19 - Driver is initializated
+2015-07-02 07:12:57 INFO  MainPage:68 - Open url : http://www.yandex.ru/
+2015-07-02 07:12:57 INFO  MainPage:38 - Screenshot - screenshot3854690127308373093.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot3854690127308373093.png
+2015-07-02 07:12:59 INFO  MainPage:38 - Screenshot - screenshot6379449294858401320.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot6379449294858401320.png
+2015-07-02 07:13:07 INFO  MainPage:42 - User logged under :ludik.ludik2015
+2015-07-02 07:13:13 INFO  MainPage:38 - Screenshot - screenshot5874834710583690405.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot5874834710583690405.png
+2015-07-02 07:13:13 INFO  MainPage:88 - New email was created
+2015-07-02 07:13:15 INFO  MainPage:38 - Screenshot - screenshot8955032332313166451.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot8955032332313166451.png
+2015-07-02 07:13:20 INFO  MainPage:38 - Screenshot - screenshot9016623114385074247.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot9016623114385074247.png
+2015-07-02 07:16:04 INFO  Driver:54 - Browser - firefox
+2015-07-02 07:16:05 INFO  BaseTest:19 - Driver is initializated
+2015-07-02 07:16:07 INFO  MainPage:68 - Open url : http://www.yandex.ru/
+2015-07-02 07:16:07 INFO  UserUtils:38 - Screenshot - screenshot8100278025853445636.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot8100278025853445636.png
+2015-07-02 07:16:08 INFO  UserUtils:38 - Screenshot - screenshot8726372966049668103.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot8726372966049668103.png
+2015-07-02 07:16:10 INFO  MainPage:42 - User logged under :ludik.ludik2015
+2015-07-02 07:16:19 INFO  UserUtils:38 - Screenshot - screenshot8045171218731246674.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot8045171218731246674.png
+2015-07-02 07:16:20 INFO  HomePage:88 - New email was created
+2015-07-02 07:16:22 INFO  UserUtils:38 - Screenshot - screenshot2766626501653112472.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot2766626501653112472.png
+2015-07-02 07:16:28 INFO  UserUtils:38 - Screenshot - screenshot2686550772671216185.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot2686550772671216185.png
+2015-07-02 07:16:32 INFO  UserUtils:38 - Screenshot - screenshot5279897112825181588.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot5279897112825181588.png
+2015-07-02 07:19:02 INFO  Driver:54 - Browser - firefox
+2015-07-02 07:19:02 INFO  BaseTest:19 - Driver is initializated
+2015-07-02 07:19:08 INFO  MainPage:68 - Open url : http://www.yandex.ru/
+2015-07-02 07:19:08 INFO  UserUtils:38 - Screenshot - screenshot3526202620329878240.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot3526202620329878240.png
+2015-07-02 07:19:11 INFO  UserUtils:38 - Screenshot - screenshot1668886164155037374.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot1668886164155037374.png
+2015-07-02 07:19:18 INFO  MainPage:42 - User logged under :ludik.ludik2015
+2015-07-02 07:19:26 INFO  UserUtils:38 - Screenshot - screenshot1931194249635130618.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot1931194249635130618.png
+2015-07-02 07:19:26 INFO  HomePage:88 - New email was created
+2015-07-02 07:19:28 INFO  UserUtils:38 - Screenshot - screenshot3038940782402699296.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot3038940782402699296.png
+2015-07-02 07:19:41 INFO  UserUtils:38 - Screenshot - screenshot3360790260881001757.png save to C:\Users\LIUDMI~1.COM\AppData\Local\Temp\screenshot3360790260881001757.png
+2015-07-02 07:20:18 INFO  Driver:75 - Quit from browser
+2015-07-02 07:20:18 INFO  BaseTest:25 - Driver tear down
